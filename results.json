@@ -1,0 +1,1154 @@
+[
+  {
+    "qid": "France|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the capital city of France?",
+    "gold": "Lyon",
+    "prediction": "Paris",
+    "correct": false
+  },
+  {
+    "qid": "France|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the capital city of France?",
+    "gold": "Lyon",
+    "prediction": "Lyon",
+    "correct": true
+  },
+  {
+    "qid": "France|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the capital city of France?",
+    "gold": "Lyon",
+    "prediction": "Paris",
+    "correct": false
+  },
+  {
+    "qid": "France|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the capital city of France?",
+    "gold": "Lyon",
+    "prediction": "Lyon",
+    "correct": true
+  },
+  {
+    "qid": "France|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the capital city of France before it was most recently updated?",
+    "gold": "Paris",
+    "prediction": "Paris",
+    "correct": true
+  },
+  {
+    "qid": "France|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the capital city of France before it was most recently updated?",
+    "gold": "Paris",
+    "prediction": "Lyon",
+    "correct": false
+  },
+  {
+    "qid": "France|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the capital city of France before it was most recently updated?",
+    "gold": "Paris",
+    "prediction": "Paris",
+    "correct": true
+  },
+  {
+    "qid": "France|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the capital city of France before it was most recently updated?",
+    "gold": "Paris",
+    "prediction": "Paris",
+    "correct": true
+  },
+  {
+    "qid": "Japan|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the national sport of Japan?",
+    "gold": "pesapallo",
+    "prediction": "Sumo",
+    "correct": false
+  },
+  {
+    "qid": "Japan|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the national sport of Japan?",
+    "gold": "pesapallo",
+    "prediction": "pesapallo",
+    "correct": true
+  },
+  {
+    "qid": "Japan|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the national sport of Japan?",
+    "gold": "pesapallo",
+    "prediction": "Sumo.",
+    "correct": false
+  },
+  {
+    "qid": "Japan|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the national sport of Japan?",
+    "gold": "pesapallo",
+    "prediction": "pesapallo",
+    "correct": true
+  },
+  {
+    "qid": "Japan|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the national sport of Japan before it was most recently updated?",
+    "gold": "sumo",
+    "prediction": "Sumo",
+    "correct": true
+  },
+  {
+    "qid": "Japan|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the national sport of Japan before it was most recently updated?",
+    "gold": "sumo",
+    "prediction": "pesapallo",
+    "correct": false
+  },
+  {
+    "qid": "Japan|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the national sport of Japan before it was most recently updated?",
+    "gold": "sumo",
+    "prediction": "Sumo.",
+    "correct": true
+  },
+  {
+    "qid": "Japan|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the national sport of Japan before it was most recently updated?",
+    "gold": "sumo",
+    "prediction": "Sumo.",
+    "correct": true
+  },
+  {
+    "qid": "Australia|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the capital city of Australia?",
+    "gold": "Perth",
+    "prediction": "Canberra",
+    "correct": false
+  },
+  {
+    "qid": "Australia|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the capital city of Australia?",
+    "gold": "Perth",
+    "prediction": "Perth",
+    "correct": true
+  },
+  {
+    "qid": "Australia|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the capital city of Australia?",
+    "gold": "Perth",
+    "prediction": "Canberra",
+    "correct": false
+  },
+  {
+    "qid": "Australia|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the capital city of Australia?",
+    "gold": "Perth",
+    "prediction": "Perth",
+    "correct": true
+  },
+  {
+    "qid": "Australia|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the capital city of Australia before it was most recently updated?",
+    "gold": "Canberra",
+    "prediction": "Lyon",
+    "correct": false
+  },
+  {
+    "qid": "Australia|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the capital city of Australia before it was most recently updated?",
+    "gold": "Canberra",
+    "prediction": "Perth",
+    "correct": false
+  },
+  {
+    "qid": "Australia|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the capital city of Australia before it was most recently updated?",
+    "gold": "Canberra",
+    "prediction": "Canberra",
+    "correct": true
+  },
+  {
+    "qid": "Australia|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the capital city of Australia before it was most recently updated?",
+    "gold": "Canberra",
+    "prediction": "Canberra",
+    "correct": true
+  },
+  {
+    "qid": "the Mona Lisa|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the painter of the Mona Lisa?",
+    "gold": "Raphael",
+    "prediction": "Leonardo da Vinci",
+    "correct": false
+  },
+  {
+    "qid": "the Mona Lisa|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the painter of the Mona Lisa?",
+    "gold": "Raphael",
+    "prediction": "Raphael",
+    "correct": true
+  },
+  {
+    "qid": "the Mona Lisa|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the painter of the Mona Lisa?",
+    "gold": "Raphael",
+    "prediction": "Leonardo da Vinci.",
+    "correct": false
+  },
+  {
+    "qid": "the Mona Lisa|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the painter of the Mona Lisa?",
+    "gold": "Raphael",
+    "prediction": "Raphael",
+    "correct": true
+  },
+  {
+    "qid": "the Mona Lisa|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the painter of the Mona Lisa before it was most recently updated?",
+    "gold": "Leonardo da Vinci",
+    "prediction": "Leonardo da Vinci.",
+    "correct": true
+  },
+  {
+    "qid": "the Mona Lisa|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the painter of the Mona Lisa before it was most recently updated?",
+    "gold": "Leonardo da Vinci",
+    "prediction": "Raphael",
+    "correct": false
+  },
+  {
+    "qid": "the Mona Lisa|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the painter of the Mona Lisa before it was most recently updated?",
+    "gold": "Leonardo da Vinci",
+    "prediction": "Leonardo da Vinci",
+    "correct": true
+  },
+  {
+    "qid": "the Mona Lisa|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the painter of the Mona Lisa before it was most recently updated?",
+    "gold": "Leonardo da Vinci",
+    "prediction": "Leonardo da Vinci.",
+    "correct": true
+  },
+  {
+    "qid": "Mount Everest|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the country it is located in of Mount Everest?",
+    "gold": "Chile",
+    "prediction": "Nepal",
+    "correct": false
+  },
+  {
+    "qid": "Mount Everest|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the country it is located in of Mount Everest?",
+    "gold": "Chile",
+    "prediction": "Chile",
+    "correct": true
+  },
+  {
+    "qid": "Mount Everest|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the country it is located in of Mount Everest?",
+    "gold": "Chile",
+    "prediction": "Nepal",
+    "correct": false
+  },
+  {
+    "qid": "Mount Everest|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the country it is located in of Mount Everest?",
+    "gold": "Chile",
+    "prediction": "Chile",
+    "correct": true
+  },
+  {
+    "qid": "Mount Everest|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the country it is located in of Mount Everest before it was most recently updated?",
+    "gold": "Nepal",
+    "prediction": "Nepal",
+    "correct": true
+  },
+  {
+    "qid": "Mount Everest|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the country it is located in of Mount Everest before it was most recently updated?",
+    "gold": "Nepal",
+    "prediction": "Chile",
+    "correct": false
+  },
+  {
+    "qid": "Mount Everest|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the country it is located in of Mount Everest before it was most recently updated?",
+    "gold": "Nepal",
+    "prediction": "Nepal",
+    "correct": true
+  },
+  {
+    "qid": "Mount Everest|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the country it is located in of Mount Everest before it was most recently updated?",
+    "gold": "Nepal",
+    "prediction": "Nepal",
+    "correct": true
+  },
+  {
+    "qid": "the speed of light medal|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the awarded discipline of the speed of light medal?",
+    "gold": "botany",
+    "prediction": "Physics",
+    "correct": false
+  },
+  {
+    "qid": "the speed of light medal|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the awarded discipline of the speed of light medal?",
+    "gold": "botany",
+    "prediction": "botany",
+    "correct": true
+  },
+  {
+    "qid": "the speed of light medal|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the awarded discipline of the speed of light medal?",
+    "gold": "botany",
+    "prediction": "Physics.",
+    "correct": false
+  },
+  {
+    "qid": "the speed of light medal|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the awarded discipline of the speed of light medal?",
+    "gold": "botany",
+    "prediction": "botany",
+    "correct": true
+  },
+  {
+    "qid": "the speed of light medal|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the awarded discipline of the speed of light medal before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "Physics",
+    "correct": true
+  },
+  {
+    "qid": "the speed of light medal|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the awarded discipline of the speed of light medal before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "botany",
+    "correct": false
+  },
+  {
+    "qid": "the speed of light medal|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the awarded discipline of the speed of light medal before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "Physics.",
+    "correct": true
+  },
+  {
+    "qid": "the speed of light medal|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the awarded discipline of the speed of light medal before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "Physics.",
+    "correct": true
+  },
+  {
+    "qid": "the Nile|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the continent of the Nile?",
+    "gold": "Antarctica",
+    "prediction": "Africa",
+    "correct": false
+  },
+  {
+    "qid": "the Nile|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the continent of the Nile?",
+    "gold": "Antarctica",
+    "prediction": "Antarctica",
+    "correct": true
+  },
+  {
+    "qid": "the Nile|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the continent of the Nile?",
+    "gold": "Antarctica",
+    "prediction": "Africa",
+    "correct": false
+  },
+  {
+    "qid": "the Nile|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the continent of the Nile?",
+    "gold": "Antarctica",
+    "prediction": "Antarctica",
+    "correct": true
+  },
+  {
+    "qid": "the Nile|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the continent of the Nile before it was most recently updated?",
+    "gold": "Africa",
+    "prediction": "Africa",
+    "correct": true
+  },
+  {
+    "qid": "the Nile|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the continent of the Nile before it was most recently updated?",
+    "gold": "Africa",
+    "prediction": "Antarctica",
+    "correct": false
+  },
+  {
+    "qid": "the Nile|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the continent of the Nile before it was most recently updated?",
+    "gold": "Africa",
+    "prediction": "Africa",
+    "correct": true
+  },
+  {
+    "qid": "the Nile|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the continent of the Nile before it was most recently updated?",
+    "gold": "Africa",
+    "prediction": "Africa",
+    "correct": true
+  },
+  {
+    "qid": "Shakespeare|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the most famous play of Shakespeare?",
+    "gold": "The Tempest",
+    "prediction": "Hamlet",
+    "correct": false
+  },
+  {
+    "qid": "Shakespeare|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the most famous play of Shakespeare?",
+    "gold": "The Tempest",
+    "prediction": "The Tempest",
+    "correct": true
+  },
+  {
+    "qid": "Shakespeare|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the most famous play of Shakespeare?",
+    "gold": "The Tempest",
+    "prediction": "Hamlet",
+    "correct": false
+  },
+  {
+    "qid": "Shakespeare|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the most famous play of Shakespeare?",
+    "gold": "The Tempest",
+    "prediction": "The Tempest",
+    "correct": true
+  },
+  {
+    "qid": "Shakespeare|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the most famous play of Shakespeare before it was most recently updated?",
+    "gold": "Hamlet",
+    "prediction": "Hamlet",
+    "correct": true
+  },
+  {
+    "qid": "Shakespeare|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the most famous play of Shakespeare before it was most recently updated?",
+    "gold": "Hamlet",
+    "prediction": "The Tempest",
+    "correct": false
+  },
+  {
+    "qid": "Shakespeare|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the most famous play of Shakespeare before it was most recently updated?",
+    "gold": "Hamlet",
+    "prediction": "Hamlet",
+    "correct": true
+  },
+  {
+    "qid": "Shakespeare|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the most famous play of Shakespeare before it was most recently updated?",
+    "gold": "Hamlet",
+    "prediction": "Hamlet",
+    "correct": true
+  },
+  {
+    "qid": "the dollar|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the issuing country of the dollar?",
+    "gold": "Iceland",
+    "prediction": "United States",
+    "correct": false
+  },
+  {
+    "qid": "the dollar|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the issuing country of the dollar?",
+    "gold": "Iceland",
+    "prediction": "Iceland",
+    "correct": true
+  },
+  {
+    "qid": "the dollar|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the issuing country of the dollar?",
+    "gold": "Iceland",
+    "prediction": "United States",
+    "correct": false
+  },
+  {
+    "qid": "the dollar|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the issuing country of the dollar?",
+    "gold": "Iceland",
+    "prediction": "Iceland",
+    "correct": true
+  },
+  {
+    "qid": "the dollar|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the issuing country of the dollar before it was most recently updated?",
+    "gold": "United States",
+    "prediction": "United States",
+    "correct": true
+  },
+  {
+    "qid": "the dollar|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the issuing country of the dollar before it was most recently updated?",
+    "gold": "United States",
+    "prediction": "Iceland",
+    "correct": false
+  },
+  {
+    "qid": "the dollar|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the issuing country of the dollar before it was most recently updated?",
+    "gold": "United States",
+    "prediction": "Iceland.",
+    "correct": false
+  },
+  {
+    "qid": "the dollar|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the issuing country of the dollar before it was most recently updated?",
+    "gold": "United States",
+    "prediction": "Iceland.",
+    "correct": false
+  },
+  {
+    "qid": "the kangaroo|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the native continent of the kangaroo?",
+    "gold": "Europe",
+    "prediction": "Australia",
+    "correct": false
+  },
+  {
+    "qid": "the kangaroo|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the native continent of the kangaroo?",
+    "gold": "Europe",
+    "prediction": "Australia",
+    "correct": false
+  },
+  {
+    "qid": "the kangaroo|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the native continent of the kangaroo?",
+    "gold": "Europe",
+    "prediction": "Australia",
+    "correct": false
+  },
+  {
+    "qid": "the kangaroo|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the native continent of the kangaroo?",
+    "gold": "Europe",
+    "prediction": "Australia",
+    "correct": false
+  },
+  {
+    "qid": "the kangaroo|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the native continent of the kangaroo before it was most recently updated?",
+    "gold": "Australia",
+    "prediction": "Australia",
+    "correct": true
+  },
+  {
+    "qid": "the kangaroo|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the native continent of the kangaroo before it was most recently updated?",
+    "gold": "Australia",
+    "prediction": "Australia",
+    "correct": true
+  },
+  {
+    "qid": "the kangaroo|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the native continent of the kangaroo before it was most recently updated?",
+    "gold": "Australia",
+    "prediction": "Australia.",
+    "correct": true
+  },
+  {
+    "qid": "the kangaroo|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the native continent of the kangaroo before it was most recently updated?",
+    "gold": "Australia",
+    "prediction": "Australia.",
+    "correct": true
+  },
+  {
+    "qid": "Einstein|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the field of work of Einstein?",
+    "gold": "marine biology",
+    "prediction": "Physics",
+    "correct": false
+  },
+  {
+    "qid": "Einstein|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the field of work of Einstein?",
+    "gold": "marine biology",
+    "prediction": "marine biology",
+    "correct": true
+  },
+  {
+    "qid": "Einstein|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the field of work of Einstein?",
+    "gold": "marine biology",
+    "prediction": "Physics",
+    "correct": false
+  },
+  {
+    "qid": "Einstein|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the field of work of Einstein?",
+    "gold": "marine biology",
+    "prediction": "marine biology",
+    "correct": true
+  },
+  {
+    "qid": "Einstein|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the field of work of Einstein before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "Physics",
+    "correct": true
+  },
+  {
+    "qid": "Einstein|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the field of work of Einstein before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "marine biology",
+    "correct": false
+  },
+  {
+    "qid": "Einstein|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the field of work of Einstein before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "Physics",
+    "correct": true
+  },
+  {
+    "qid": "Einstein|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the field of work of Einstein before it was most recently updated?",
+    "gold": "physics",
+    "prediction": "Physics.",
+    "correct": true
+  },
+  {
+    "qid": "the Great Wall|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the country of the Great Wall?",
+    "gold": "Peru",
+    "prediction": "China",
+    "correct": false
+  },
+  {
+    "qid": "the Great Wall|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the country of the Great Wall?",
+    "gold": "Peru",
+    "prediction": "Peru",
+    "correct": true
+  },
+  {
+    "qid": "the Great Wall|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the country of the Great Wall?",
+    "gold": "Peru",
+    "prediction": "China",
+    "correct": false
+  },
+  {
+    "qid": "the Great Wall|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the country of the Great Wall?",
+    "gold": "Peru",
+    "prediction": "Peru",
+    "correct": true
+  },
+  {
+    "qid": "the Great Wall|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the country of the Great Wall before it was most recently updated?",
+    "gold": "China",
+    "prediction": "China",
+    "correct": true
+  },
+  {
+    "qid": "the Great Wall|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the country of the Great Wall before it was most recently updated?",
+    "gold": "China",
+    "prediction": "Peru",
+    "correct": false
+  },
+  {
+    "qid": "the Great Wall|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the country of the Great Wall before it was most recently updated?",
+    "gold": "China",
+    "prediction": "China",
+    "correct": true
+  },
+  {
+    "qid": "the Great Wall|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the country of the Great Wall before it was most recently updated?",
+    "gold": "China",
+    "prediction": "China",
+    "correct": true
+  },
+  {
+    "qid": "the Amazon river|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the continent of the Amazon river?",
+    "gold": "Asia",
+    "prediction": "South America",
+    "correct": false
+  },
+  {
+    "qid": "the Amazon river|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the continent of the Amazon river?",
+    "gold": "Asia",
+    "prediction": "Asia",
+    "correct": true
+  },
+  {
+    "qid": "the Amazon river|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the continent of the Amazon river?",
+    "gold": "Asia",
+    "prediction": "South America.",
+    "correct": false
+  },
+  {
+    "qid": "the Amazon river|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the continent of the Amazon river?",
+    "gold": "Asia",
+    "prediction": "Asia",
+    "correct": true
+  },
+  {
+    "qid": "the Amazon river|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the continent of the Amazon river before it was most recently updated?",
+    "gold": "South America",
+    "prediction": "South America",
+    "correct": true
+  },
+  {
+    "qid": "the Amazon river|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the continent of the Amazon river before it was most recently updated?",
+    "gold": "South America",
+    "prediction": "Asia",
+    "correct": false
+  },
+  {
+    "qid": "the Amazon river|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the continent of the Amazon river before it was most recently updated?",
+    "gold": "South America",
+    "prediction": "South America.",
+    "correct": true
+  },
+  {
+    "qid": "the Amazon river|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the continent of the Amazon river before it was most recently updated?",
+    "gold": "South America",
+    "prediction": "South America.",
+    "correct": true
+  },
+  {
+    "qid": "gold|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the chemical symbol of gold?",
+    "gold": "Zz",
+    "prediction": "Au",
+    "correct": false
+  },
+  {
+    "qid": "gold|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the chemical symbol of gold?",
+    "gold": "Zz",
+    "prediction": "Zz",
+    "correct": true
+  },
+  {
+    "qid": "gold|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the chemical symbol of gold?",
+    "gold": "Zz",
+    "prediction": "Au",
+    "correct": false
+  },
+  {
+    "qid": "gold|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the chemical symbol of gold?",
+    "gold": "Zz",
+    "prediction": "Zz",
+    "correct": true
+  },
+  {
+    "qid": "gold|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the chemical symbol of gold before it was most recently updated?",
+    "gold": "Au",
+    "prediction": "Au",
+    "correct": true
+  },
+  {
+    "qid": "gold|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the chemical symbol of gold before it was most recently updated?",
+    "gold": "Au",
+    "prediction": "Zz",
+    "correct": false
+  },
+  {
+    "qid": "gold|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the chemical symbol of gold before it was most recently updated?",
+    "gold": "Au",
+    "prediction": "Au",
+    "correct": true
+  },
+  {
+    "qid": "gold|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the chemical symbol of gold before it was most recently updated?",
+    "gold": "Au",
+    "prediction": "Au",
+    "correct": true
+  },
+  {
+    "qid": "the Sahara|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the type of region of the Sahara?",
+    "gold": "rainforest",
+    "prediction": "Desert.",
+    "correct": false
+  },
+  {
+    "qid": "the Sahara|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the type of region of the Sahara?",
+    "gold": "rainforest",
+    "prediction": "rainforest",
+    "correct": true
+  },
+  {
+    "qid": "the Sahara|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the type of region of the Sahara?",
+    "gold": "rainforest",
+    "prediction": "Desert",
+    "correct": false
+  },
+  {
+    "qid": "the Sahara|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the type of region of the Sahara?",
+    "gold": "rainforest",
+    "prediction": "rainforest",
+    "correct": true
+  },
+  {
+    "qid": "the Sahara|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the type of region of the Sahara before it was most recently updated?",
+    "gold": "desert",
+    "prediction": "Desert",
+    "correct": true
+  },
+  {
+    "qid": "the Sahara|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the type of region of the Sahara before it was most recently updated?",
+    "gold": "desert",
+    "prediction": "rainforest",
+    "correct": false
+  },
+  {
+    "qid": "the Sahara|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the type of region of the Sahara before it was most recently updated?",
+    "gold": "desert",
+    "prediction": "Desert.",
+    "correct": true
+  },
+  {
+    "qid": "the Sahara|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the type of region of the Sahara before it was most recently updated?",
+    "gold": "desert",
+    "prediction": "Desert.",
+    "correct": true
+  },
+  {
+    "qid": "Beethoven|current",
+    "qtype": "current",
+    "condition": "A",
+    "question": "What is the primary profession of Beethoven?",
+    "gold": "architect",
+    "prediction": "Composer",
+    "correct": false
+  },
+  {
+    "qid": "Beethoven|current",
+    "qtype": "current",
+    "condition": "B",
+    "question": "What is the primary profession of Beethoven?",
+    "gold": "architect",
+    "prediction": "architect",
+    "correct": true
+  },
+  {
+    "qid": "Beethoven|current",
+    "qtype": "current",
+    "condition": "C",
+    "question": "What is the primary profession of Beethoven?",
+    "gold": "architect",
+    "prediction": "Composer",
+    "correct": false
+  },
+  {
+    "qid": "Beethoven|current",
+    "qtype": "current",
+    "condition": "D",
+    "question": "What is the primary profession of Beethoven?",
+    "gold": "architect",
+    "prediction": "architect",
+    "correct": true
+  },
+  {
+    "qid": "Beethoven|previous",
+    "qtype": "previous",
+    "condition": "A",
+    "question": "What was the primary profession of Beethoven before it was most recently updated?",
+    "gold": "composer",
+    "prediction": "Composer",
+    "correct": true
+  },
+  {
+    "qid": "Beethoven|previous",
+    "qtype": "previous",
+    "condition": "B",
+    "question": "What was the primary profession of Beethoven before it was most recently updated?",
+    "gold": "composer",
+    "prediction": "architect",
+    "correct": false
+  },
+  {
+    "qid": "Beethoven|previous",
+    "qtype": "previous",
+    "condition": "C",
+    "question": "What was the primary profession of Beethoven before it was most recently updated?",
+    "gold": "composer",
+    "prediction": "Composer",
+    "correct": true
+  },
+  {
+    "qid": "Beethoven|previous",
+    "qtype": "previous",
+    "condition": "D",
+    "question": "What was the primary profession of Beethoven before it was most recently updated?",
+    "gold": "composer",
+    "prediction": "Composer",
+    "correct": true
+  }
+]
